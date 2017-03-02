@@ -1,0 +1,21 @@
+<svg id="bolt" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568 568">
+  <title>bolt</title>
+  <g>
+    <path d="M683,660a276,276,0,1,1,195.16-80.84A274.19,274.19,0,0,1,683,660Z" transform="translate(-399 -100)" fill="#fff"/>
+    <path d="M683,116a267.11,267.11,0,1,1-104.31,21.05A266.31,266.31,0,0,1,683,116m0-16c-156.85,0-284,127.15-284,284S526.15,668,683,668,967,540.85,967,384,839.85,100,683,100Z" transform="translate(-399 -100)"/>
+  </g>
+  <g>
+    <path d="M683.5,608a223.5,223.5,0,1,1,158-65.46A222,222,0,0,1,683.5,608Z" transform="translate(-399 -100)" fill="#fff"/>
+    <path d="M683.5,169a214.78,214.78,0,1,1-83.88,16.93A214.14,214.14,0,0,1,683.5,169m0-16C555.65,153,452,256.65,452,384.5S555.65,616,683.5,616,915,512.35,915,384.5,811.35,153,683.5,153Z" transform="translate(-399 -100)"/>
+  </g>
+  <line x1="210" y1="196" x2="338" y2="83" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="16"/>
+  <line x1="322" y1="194" x2="338" y2="83" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="16"/>
+  <line x1="379" y1="197" x2="315" y2="193" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="16"/>
+  <line x1="314" y1="282" x2="372" y2="196" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="16"/>
+  <line x1="421" y1="278" x2="321" y2="278" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="16"/>
+  <line x1="262" y1="474" x2="416" y2="279" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="16"/>
+  <line x1="213" y1="193" x2="255" y2="199" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="16"/>
+  <line x1="213" y1="318" x2="248" y2="194" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="16"/>
+  <line x1="254" y1="290" x2="212" y2="314" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="16"/>
+  <line x1="265" y1="473" x2="252" y2="284" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="16"/>
+</svg>

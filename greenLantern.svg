@@ -1,0 +1,19 @@
+<svg id="greenLantern" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568 568">
+  <title>greenLantern</title>
+  <g>
+    <path d="M683,658a274,274,0,1,1,193.75-80.25A272.21,272.21,0,0,1,683,658Z" transform="translate(-399 -100)" fill="#fff"/>
+    <path d="M683,120a263.11,263.11,0,1,1-102.75,20.74A262.33,262.33,0,0,1,683,120m0-20c-156.85,0-284,127.15-284,284S526.15,668,683,668,967,540.85,967,384,839.85,100,683,100Z" transform="translate(-399 -100)"/>
+  </g>
+  <g>
+    <path d="M683,489A105,105,0,1,1,788,384,105.12,105.12,0,0,1,683,489Z" transform="translate(-399 -100)" fill="#fff"/>
+    <path d="M683,289a95,95,0,1,1-95,95,95.11,95.11,0,0,1,95-95m0-20A115,115,0,1,0,798,384,115,115,0,0,0,683,269Z" transform="translate(-399 -100)"/>
+  </g>
+  <g>
+    <rect x="147" y="113" width="289" height="46" fill="#fff"/>
+    <path d="M825,223v26H556V223H825m20-20H536v66H845V203Z" transform="translate(-399 -100)"/>
+  </g>
+  <g>
+    <rect x="140" y="409" width="289" height="46" fill="#fff"/>
+    <path d="M818,519v26H549V519H818m20-20H529v66H838V499Z" transform="translate(-399 -100)"/>
+  </g>
+</svg>
